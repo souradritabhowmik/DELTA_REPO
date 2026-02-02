@@ -49,6 +49,6 @@ export async function POST(request) {
 
     return NextResponse.json({ analysis: text });
   } catch (e) {
-    return NextResponse.json({ analysis: "AI is calibrating. Try in 10s." });
+    return NextResponse.json({ analysis: "AI is thinking. Try in 10s." });
   }
 }

@@ -10,7 +10,6 @@ export default function Page() {
   const [history, setHistory] = useState<any[]>([]);
   const [showHistory, setShowHistory] = useState(false);
 
-  // Load history when the app starts
   const fetchHistory = async () => {
     try {
       const res = await fetch('/api/history');
