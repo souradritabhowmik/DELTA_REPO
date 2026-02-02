@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Over 70% of young investors say they don’t understand why stock prices move, even though they see charts every day. Prices change constantly, but the reasons are buried behind complex financial data and jargon that assumes years of experience. As a result, many teens either don’t invest at all, or treat the market like a guessing game. We built Delta to change that. By instantly explaining why a stock moved in clear, human language, Delta lowers the barrier to understanding and empowers the next generation to build real financial literacy instead of gambling. Charts move every day, but the “why” is locked behind complexity. Delta makes market movements understandable, so young investors can learn with confidence instead of guessing.
 
-## Getting Started
+# Δ DELTA
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+██████╗ ███████╗██╗  ████████╗ █████╗
+██╔══██╗██╔════╝██║  ╚══██╔══╝██╔══██╗
+██║  ██║█████╗  ██║     ██║   ███████║
+██║  ██║██╔══╝  ██║     ██║   ██╔══██║
+██████╔╝███████╗███████╗██║   ██║  ██║
+╚═════╝ ╚══════╝╚══════╝╚═╝   ╚═╝  ╚═╝
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> **turning market chaos into clarity.**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📊 What is Delta?
 
-## Learn More
+Delta transforms confusing stock price movements into **clear, human-readable explanations**.
 
-To learn more about Next.js, take a look at the following resources:
+Instead of staring at intimidating charts, users get **context**:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* What moved
+* Why it moved
+* What it means
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+No predictions. No hype. Just understanding.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+##  Features
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```
+[✔] Explains price movements in plain English
+[✔] Analyzes recent market activity
+[✔] Breaks down *why* prices changed
+[✔] Removes noise, jargon, and hype
+[✔] Builds real financial literacy
+```
+
+---
+
+## OUR MISSION
+
+```
+UNDERSTANDING > PREDICTION
+CLARITY       > SIGNALS
+LITERACY      > HYPE
+```
+
+Delta is designed to help users **learn how markets behave**, not chase the next trend.
+
+---
+
+## HOW IT WORKS
+
+1. Enter a stock ticker
+2. Choose a timeframe
+3. Delta analyzes recent price changes
+4. Receive a simple explanation of *why* it moved
+
+---
+
+## who is it for??
+
+```
+• Beginners overwhelmed by charts
+• Students learning finance
+• Long-term investors
+• Anyone tired of hype-driven markets
+---
+
+## 💬 Vision
+
+Markets shouldn’t feel gatekept.
+
+Delta exists to make financial understanding **accessible, calm, and human** — especially for a generation navigating uncertainty.
