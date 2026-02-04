@@ -8,8 +8,7 @@ Instead of staring at intimidating charts, users get **context**:
 
 ---
 
-##  Features
-
+features;
 ```
 [✔] Explains price movements in plain English
 [✔] Analyzes recent market activity
@@ -19,15 +18,8 @@ Instead of staring at intimidating charts, users get **context**:
 
 ```
 
-## HOW IT WORKS
-
+how it works;
 1. Enter a stock ticker
 2. Choose a timeframe
 3. Delta analyzes recent price changes
 4. Receive a simple explanation of *why* it moved
-
-## 💬 Vision
-
-Markets shouldn’t feel gatekept.
-
-Delta exists to make financial understanding **accessible, calm, and human** — especially for a generation navigating uncertainty.
